@@ -1,0 +1,17 @@
+C:\Users\Yivanova\source\repos\Reestr\Reestr\bin\Debug\Reestr.exe.config
+C:\Users\Yivanova\source\repos\Reestr\Reestr\bin\Debug\Reestr.exe
+C:\Users\Yivanova\source\repos\Reestr\Reestr\bin\Debug\Reestr.pdb
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.csprojAssemblyReference.cache
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.Form1.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.history.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.politic.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.Properties.Resources.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.csproj.GenerateResource.cache
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.csproj.CoreCompileInputs.cache
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.exe
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.pdb
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.instruction.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.standarts.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\obj\Debug\Reestr.vhod.resources
+C:\Users\Yivanova\source\repos\Reestr\Reestr\bin\Debug\Reestr.exe.CodeAnalysisLog.xml
+C:\Users\Yivanova\source\repos\Reestr\Reestr\bin\Debug\Reestr.exe.lastcodeanalysissucceeded
